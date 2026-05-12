@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Multi-omics analysis in allergic rhinitis
+Overview of the allergic rhinitis study.
 </p>
 
 ## Overview
@@ -17,11 +17,48 @@ This repository contains analysis scripts and representative outputs for the mul
 - Lipidome
 - Respiratory microbiome
 - Multi-omics integration
-- Organ-level analysis
+- Organ analysis
 - Machine learning-based risk prediction and stratification
 
-## Study workflow
+## Key analyses
+### 1. Proteome
 
+- Differential protein analysis
+- Functional enrichment analysis
+- Protein-protein interaction analysis
+
+### 2. Metabolome and lipidome
+
+- Differential metabolite/lipid analysis
+- Functional enrichment analysis
+
+### 3. Respiratory microbiome
+
+- Taxonomic profiling
+- Differential microbial species
+- Function profiling
+
+### 4. Multi-omics integration
+
+- DIABLO-based integration
+- mmVec modeling
+- Multi-omics network modules
+- Microorganism-metabolite/lipid-host signaling path
+- Mediation analysis
+
+### 5. Organ analysis
+
+- Organ risk index construction
+- Organ interaction network analysis
+- Differential organ correlation analysis
+- Systemic organ dysfunction profiling
+
+### 6. Machine learning and patient stratification
+
+- Random forest classification
+- SHAP analysis
+- Feature selection
+- Molecular subtype discovery
 
 
 ## Contact
