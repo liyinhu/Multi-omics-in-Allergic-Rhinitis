@@ -18,7 +18,7 @@ This repository contains analysis scripts and representative outputs for the mul
 - Respiratory microbiome
 - Multi-omics integration
 - Organ analysis
-- Machine learning-based risk prediction and stratification
+- AR risk prediction and stratification
 
 ## Key analyses
 ### 1. Proteome
@@ -53,7 +53,7 @@ This repository contains analysis scripts and representative outputs for the mul
 - Differential organ correlation analysis
 - Systemic organ dysfunction profiling
 
-### 6. Machine learning and patient stratification
+### 6. AR risk prediction and patient stratification
 
 - Random forest classification
 - SHAP analysis
